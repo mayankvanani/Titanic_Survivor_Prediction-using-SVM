@@ -2,7 +2,7 @@
 This is in reference to the Titanic Challenge hosted on **Kaggle** website.
 
 ## Dataset
-Dataset is taken on _Kaggle_
+Dataset is taken on _Kaggle_ . All the information is on the website is same and considered as it is for building this model.
 
 ## About Model
 - Kernel SVM - Radial Bases Fuction - **Gaussian RBF**
