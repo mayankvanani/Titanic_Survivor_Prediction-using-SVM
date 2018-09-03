@@ -9,3 +9,8 @@ Dataset is taken on _Kaggle_
 - Input Parameters : **'Pclass', 'Sex', 'Age', 'Fare', 'Embarked'**
 - Missing values have been substituted by **column mean** (axis=1)
 - The Alphabetical parameters have been substituted by **'ffill'** method.
+- The model has been impoved with the help of _Grid Search_ algorithm, but the algorithm is not mentioned in the file. 
+
+**ACCURACY : 76.468%**
+
+
